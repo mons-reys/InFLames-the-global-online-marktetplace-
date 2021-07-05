@@ -1,7 +1,7 @@
 # InFLames: the global online marktetplace (E-commerce website)
 
 ## Tools 
-php, javascript, html, css, Git
+php, javascript, html, css
 
 ## BY Zakaria elmhalli 
 
